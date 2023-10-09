@@ -1,0 +1,233 @@
+{
+  "code": 20000,
+  "msg": "OK",
+  "success": true,
+  "data": {
+    "title": "3333",
+    "hasNext": true,
+    "items": [
+      {
+        "id": "category3",
+        "isReport": false,
+        "category": "인문/역사/카테고리",
+        "badge": {
+          "subtile": null,
+          "types": [
+            {
+              "text": "인문/역사/카테고리",
+              "image": null
+            }
+          ]
+        },
+        "sentence": "경제 7번 쉽게 공포와 혼란, 두려움을 불러일으킨다. 어둠은 내 곁에 있는 것도 보이지 않게 한다. 나 혼자 남겨진 기분만큼 존재를 약하게 하는 것은 없다. 깊은 어둠은 심지어 나 자신조차 다 덮어버린다.\n#해리포터를읽는시간",
+        "bg": {
+          "url": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+          "type": "DARK"
+        },
+        "bottom": {
+          "introduce": {
+            "id": "232",
+            "image": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+            "nickname": "닉네임",
+            "introduce": "소개글"
+          },
+          "source": [
+            "도서",
+            "출처 ~~~~~"
+          ],
+          "spark": {
+            "isSelected": true
+          },
+          "foldering": {
+            "isSelected": false
+          }
+        }
+      },
+      {
+        "id": "category3",
+        "isReport": false,
+        "category": "인문/역사/카테고리",
+        "badge": {
+          "subtile": null,
+          "types": [
+            {
+              "text": "인문/역사/카테고리",
+              "image": null
+            }
+          ]
+        },
+        "sentence": "경제 8번 쉽게 공포와 혼란, 두려움을 불러일으킨다. 어둠은 내 곁에 있는 것도 보이지 않게 한다. 나 혼자 남겨진 기분만큼 존재를 약하게 하는 것은 없다. 깊은 어둠은 심지어 나 자신조차 다 덮어버린다.\n#해리포터를읽는시간",
+        "bg": {
+          "url": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+          "type": "DARK"
+        },
+        "bottom": {
+          "introduce": {
+            "id": "232",
+            "image": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+            "nickname": "닉네임",
+            "introduce": "소개글"
+          },
+          "source": [
+            "도서",
+            "출처 ~~~~~"
+          ],
+          "spark": {
+            "isSelected": true
+          },
+          "foldering": {
+            "isSelected": false
+          }
+        }
+      },
+      {
+        "id": "category3",
+        "isReport": false,
+        "category": "인문/역사/카테고리",
+        "badge": {
+          "subtile": null,
+          "types": [
+            {
+              "text": "인문/역사/카테고리",
+              "image": null
+            }
+          ]
+        },
+        "sentence": "경제 9번 쉽게 공포와 혼란, 두려움을 불러일으킨다. 어둠은 내 곁에 있는 것도 보이지 않게 한다. 나 혼자 남겨진 기분만큼 존재를 약하게 하는 것은 없다. 깊은 어둠은 심지어 나 자신조차 다 덮어버린다.\n#해리포터를읽는시간",
+        "bg": {
+          "url": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+          "type": "DARK"
+        },
+        "bottom": {
+          "introduce": {
+            "id": "232",
+            "image": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+            "nickname": "닉네임",
+            "introduce": "소개글"
+          },
+          "source": [
+            "도서",
+            "출처 ~~~~~"
+          ],
+          "spark": {
+            "isSelected": false
+          },
+          "foldering": {
+            "isSelected": false
+          }
+        }
+      },
+      {
+        "id": "category3",
+        "isReport": false,
+        "category": "인문/역사/카테고리",
+        "badge": {
+          "subtile": null,
+          "types": [
+            {
+              "text": "인문/역사/카테고리",
+              "image": null
+            }
+          ]
+        },
+        "sentence": "경제 7번 쉽게 공포와 혼란, 두려움을 불러일으킨다. 어둠은 내 곁에 있는 것도 보이지 않게 한다. 나 혼자 남겨진 기분만큼 존재를 약하게 하는 것은 없다. 깊은 어둠은 심지어 나 자신조차 다 덮어버린다.\n#해리포터를읽는시간",
+        "bg": {
+          "url": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+          "type": "DARK"
+        },
+        "bottom": {
+          "introduce": {
+            "id": "232",
+            "image": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+            "nickname": "닉네임",
+            "introduce": "소개글"
+          },
+          "source": [
+            "도서",
+            "출처 ~~~~~"
+          ],
+          "spark": {
+            "isSelected": true
+          },
+          "foldering": {
+            "isSelected": false
+          }
+        }
+      },
+      {
+        "id": "category3",
+        "isReport": false,
+        "category": "인문/역사/카테고리",
+        "badge": {
+          "subtile": null,
+          "types": [
+            {
+              "text": "인문/역사/카테고리",
+              "image": null
+            }
+          ]
+        },
+        "sentence": "경제 8번 쉽게 공포와 혼란, 두려움을 불러일으킨다. 어둠은 내 곁에 있는 것도 보이지 않게 한다. 나 혼자 남겨진 기분만큼 존재를 약하게 하는 것은 없다. 깊은 어둠은 심지어 나 자신조차 다 덮어버린다.\n#해리포터를읽는시간",
+        "bg": {
+          "url": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+          "type": "DARK"
+        },
+        "bottom": {
+          "introduce": {
+            "id": "232",
+            "image": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+            "nickname": "닉네임",
+            "introduce": "소개글"
+          },
+          "source": [
+            "도서",
+            "출처 ~~~~~"
+          ],
+          "spark": {
+            "isSelected": true
+          },
+          "foldering": {
+            "isSelected": false
+          }
+        }
+      },
+      {
+        "id": "category3",
+        "isReport": false,
+        "category": "인문/역사/카테고리",
+        "badge": {
+          "subtile": null,
+          "types": [
+            {
+              "text": "인문/역사/카테고리",
+              "image": null
+            }
+          ]
+        },
+        "sentence": "경제 9번 쉽게 공포와 혼란, 두려움을 불러일으킨다. 어둠은 내 곁에 있는 것도 보이지 않게 한다. 나 혼자 남겨진 기분만큼 존재를 약하게 하는 것은 없다. 깊은 어둠은 심지어 나 자신조차 다 덮어버린다.\n#해리포터를읽는시간",
+        "bg": {
+          "url": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+          "type": "DARK"
+        },
+        "bottom": {
+          "introduce": {
+            "id": "232",
+            "image": "https://readlog-prd-media.s3.ap-northeast-2.amazonaws.com/template/card_bg/card_bg_18.png",
+            "nickname": "닉네임",
+            "introduce": "소개글"
+          },
+          "source": [
+            "도서",
+            "출처 ~~~~~"
+          ],
+          "spark": {
+            "isSelected": false
+          },
+          "foldering": {
+            "isSelected": false
+          }
+        }
+      }
+    ]
+  }
+}
